@@ -1,4 +1,0 @@
-/home/popa/repos/STL containers/build/CMakeFiles/main.dir
-/home/popa/repos/STL containers/build/CMakeFiles/associative_containers.dir
-/home/popa/repos/STL containers/build/CMakeFiles/edit_cache.dir
-/home/popa/repos/STL containers/build/CMakeFiles/rebuild_cache.dir
